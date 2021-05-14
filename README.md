@@ -9,11 +9,11 @@ cd ipfs-node-app
 ```
 2.Install required packages
 ```
-npm init
-npm install ipfs-http-client ejs express express-fileupload body-parser
+npm install 
 ```
 3.Start the app
 ```
+ipfs daemon
 node app.js
 ```
 
