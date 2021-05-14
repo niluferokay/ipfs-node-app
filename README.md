@@ -12,7 +12,7 @@ cd ipfs-node-app
 npm init
 npm install ipfs-http-client ejs express express-fileupload body-parser
 ```
-3.Start app
+3.Start the app
 ```
 node app.js
 ```
