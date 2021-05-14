@@ -1,5 +1,5 @@
 # ipfs-node-app
-A simple IPFS web app with Node.js to upload a document to IPFS and view it on the browser. Add files from the files folder. 
+A simple IPFS web app with Node.js to upload a document to IPFS and view it on the browser. Add files from the files folder in the repository. 
 
 # Installation
 1.Download the app
